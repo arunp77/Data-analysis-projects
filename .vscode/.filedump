@@ -1,0 +1,6 @@
+
+		begin
+      f = addfile("/Users/arunp77/Documents/Data-science/Data-analysis-projects/example.nc","r")
+      print(f)
+		end
+    
